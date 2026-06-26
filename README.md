@@ -1,1 +1,1 @@
-# tiktok-legal-pages
+# legal-pages
